@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: site
+
+website:
+  title: "Digitale innovatie"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inleiding
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
