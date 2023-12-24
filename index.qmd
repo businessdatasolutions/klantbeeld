@@ -40,7 +40,7 @@ Bron: @sxsw_amy_2023
 
 ### Sectoren
 
-[![](futurereport.png)](https://futuretodayinstitute.com/trends/) Bron: @noauthor_what_2023
+[![](futurereport.png)](https://drive.google.com/drive/folders/1v5JNnssO1Oo6n6szsB-b7bZyQog8qoCC?usp=sharing) Bron: @noauthor_what_2023
 
 ### Trends in Air Travel
 
@@ -70,7 +70,7 @@ From @shin_why_2021
 **Table A1. Measurements**
 
 | Variables       | Measures                                                                                                                                                     |
-|----------------|--------------------------------------------------------|
+|------------------|------------------------------------------------------|
 | Transparency    | \(1\) The evaluation and the criteria of algorithms used should be publicly released and understandable to people (Understandability)                        |
 |                 | \(2\) Any outputs produced by an algorithmic system should be explainable to the people affected by those outputs (Explainability)                           |
 |                 | \(3\) Algorithms should let people know how well internal states of algorithms can be understood from knowledge of their external outputs (Observability)    |
