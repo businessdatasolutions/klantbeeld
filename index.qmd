@@ -24,13 +24,13 @@ Wat is de propositie?
 
 ### Horizons
 
-[![](https://hbr.org/resources/images/article_assets/2019/07/W190711_WEBB_AFUTURISTS.png)](https://hbr.org/2019/07/how-to-do-strategic-planning-like-a-futurist) Bron: @webb_how_2019
+[![](https://hbr.org/resources/images/article_assets/2019/07/W190711_WEBB_AFUTURISTS.png)](https://hbr.org/2019/07/how-to-do-strategic-planning-like-a-futurist){target="_blank"} Bron: @webb_how_2019
 
 Wat komt er op korte / lange termijn op organisaties af?
 
 ### Technologieen
 
-[![](hypecycle.png){target="_blank"}](https://www.gartner.com/en/articles/what-s-new-in-the-2023-gartner-hype-cycle-for-emerging-technologies) Bron: @noauthor_4_nodate
+[![](hypecycle.png)](https://www.gartner.com/en/articles/what-s-new-in-the-2023-gartner-hype-cycle-for-emerging-technologies){target="_blank"} Bron: @noauthor_4_nodate
 
 ```{=html}
 
@@ -40,7 +40,7 @@ Bron: @sxsw_amy_2023
 
 ### Sectoren
 
-[![](futurereport.png)](https://drive.google.com/drive/folders/1v5JNnssO1Oo6n6szsB-b7bZyQog8qoCC?usp=sharing) Bron: @noauthor_what_2023
+[![](futurereport.png)](https://drive.google.com/drive/folders/1v5JNnssO1Oo6n6szsB-b7bZyQog8qoCC?usp=sharing){target="_blank"} Bron: @noauthor_what_2023
 
 ### Trends in Air Travel
 
